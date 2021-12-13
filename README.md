@@ -4,5 +4,4 @@ Languages I program in:
 - C (mostly)
 - Python (sometimes)
 - Ruby (just started learning it)
-- x64 assembly (I basically don't know it)
-
+- 16 bit x86 assembly for DOS (just started learning it).
