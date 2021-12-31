@@ -1,7 +1,3 @@
 ### TSOA2
 
-Languages I program in:
-- C (mostly)
-- Python (sometimes)
-- x86 assembly (sometimes)
-- Ruby (just started learning it)
+Look [here](https://tsoa2.github.io) for more information.
